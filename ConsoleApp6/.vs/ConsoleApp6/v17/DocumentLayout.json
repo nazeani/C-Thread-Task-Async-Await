@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp6\\core\\services\\concretes\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|solutionrelative:core\\services\\concretes\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp6\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB283447-BE97-45AC-A175-88CA32BB645E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp6\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB283447-BE97-45AC-A175-88CA32BB645E}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp6\\core\\services\\abstracts\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|solutionrelative:core\\services\\abstracts\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp6\\core\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|solutionrelative:core\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp6\\core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|solutionrelative:core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp6\\core\\dataacceslayer\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880F78D3-8A28-453E-8E0E-1E88A44F2BCE}|Core\\Core.csproj|solutionrelative:core\\dataacceslayer\\appdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Services\\Concretes\\CarService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Concretes\\CarService.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Services\\Concretes\\CarService.cs",
+              "RelativeToolTip": "Core\\Services\\Concretes\\CarService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:17:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Services\\Abstracts\\ICarService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\Abstracts\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Services\\Abstracts\\ICarService.cs",
+              "RelativeToolTip": "Core\\Services\\Abstracts\\ICarService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:06:08.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Models\\Gallery.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Gallery.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Models\\Gallery.cs",
+              "RelativeToolTip": "Core\\Models\\Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:02:20.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Models\\Car.cs",
+              "RelativeToolTip": "Core\\Models\\Car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:02:08.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDb.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\DataAccesLayer\\AppDb.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccesLayer\\AppDb.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\DataAccesLayer\\AppDb.cs",
+              "RelativeToolTip": "Core\\DataAccesLayer\\AppDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:57:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T05:59:27.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "ConsoleApp6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:56:52.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
